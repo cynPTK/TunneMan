@@ -1,0 +1,15 @@
+﻿  Actor.cpp
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\Actor.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\Actor.cpp(213,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\Actor.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\Actor.cpp(310,6): warning C4101: 'index': unreferenced local variable
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\Actor.cpp(327,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\Actor.cpp(400,20): warning C4018: '<': signed/unsigned mismatch
+  StudentWorld.cpp
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\StudentWorld.cpp(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\StudentWorld.cpp(129,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\StudentWorld.cpp(184,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\StudentWorld.cpp(263,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\cynth\Desktop\CS32\TunnelMan\TunnelMan\StudentWorld.cpp(395,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TunnelMan.vcxproj -> C:\Users\cynth\Desktop\CS32\TunnelMan\Debug\TunnelMan.exe
